@@ -48,8 +48,8 @@ A smart mirror has these following features.
 
 ## Hardware and Software Designs
 
-![Image](data/images/s_l300.jpg)
-[Smart Mirror](data/videos/Smart_mirror.MOV)  
+![Image](data/images/s_l300.jpg)  
+[Smart Mirror](https://youtu.be/MKPVTnBJEkE)  
 
 [Project Proposal](data/pdfs/proposal_presentation.pdf)
 
