@@ -51,6 +51,7 @@ A smart mirror has these following features.
 ![Image](data/images/s_l300.jpg)  
 [Smart Mirror](https://youtu.be/MKPVTnBJEkE)  
 
+
 [Project Proposal](data/pdfs/proposal_presentation.pdf)
 
 
