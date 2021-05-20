@@ -38,7 +38,7 @@ A smart mirror has these following features.
 - Weather status - Knowing the weather forecast will help the user to manage his daily activities. So that will eliminate the embarrassing moments which the user faces due to     the sudden changes in the weather.
 - BMI Analysis - Nowadays people don’t pay much attention for their health. At least they don’t know whether they are healthy or not. This mirror will let us know if the BMI value changes.  
 
-[Intro Video](docs/data/videos/Sequence_01.mp4)
+[Intro Video](https://youtu.be/Y4YTkWsgTG0)
 
 
 ## Solution Architecture
@@ -49,7 +49,7 @@ A smart mirror has these following features.
 ## Hardware and Software Designs
 
 ![Image](docs/data/images/s_l300.jpg)
-[Smart Mirror](docs/data/videos/Smart_mirror.MOV)  
+[Smart Mirror](https://youtu.be/MKPVTnBJEkE)  
 
 [Project Proposal](docs/data/pdfs/proposal_presentation.pdf)
 
